@@ -4,21 +4,20 @@
 - thing: Twitter
 
 - thing: Keybase
-  url:   keybase.io/pikesley
+  url:   keybase.io/ryt
   fa:    key
 
 - thing: Flickr
-  url:   flickr.com/photos/pikesley
+  url:   flickr.com/
 
 - thing: Instagram
 
 - thing: PSN
-  url:   psnprofiles.com/pikesley
+  url:   psnprofiles.com/
   fa:    gamepad
 
 - thing: YouTube
-  url:   youtube.com/c/SamPikesley
-
+  url:   youtube.com/
 - thing: Vimeo
 
 - thing: Talks
